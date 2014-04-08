@@ -1,0 +1,5 @@
+* Chapter 1
+** The key to minimizing risk in large projects is to find a way to "slice the ele-phant"
+   that is, find a way to release the system in small increments instead
+   of saving up for a big-bang release at the end. Ideally, each increment should
+   independently add value to the users and knowledge to the teams.
