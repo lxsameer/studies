@@ -3,3 +3,22 @@
    that is, find a way to release the system in small increments instead
    of saving up for a big-bang release at the end. Ideally, each increment should
    independently add value to the users and knowledge to the teams.
+* Chapter 2: Teams
+** Team up
+   create teams for development, testing, analyzing and etc
+** Teams should not be separated.
+   Each team should have some people embeded from other teams with different goal.
+   For example Delta development team should have a person from analyzing and one from
+   testing team.
+* Chapter 3: Parties
+** Project Sync
+*** Teams gathered up in mornings and talked about their tasks. (development groups)
+*** An other gathering for field specific teams like testing team, analyze team, and development leaders
+*** Leaders and developers gather in front of main project board and talk about the "big picture"
+    to find out what does each team do today, what does block us, what did we need and etc
+
+    One of the tasks of this meetup is to easily decide which team do what task ?
+    There is no iron rule and it is the key to agile in big projects. Page 17
+*** Each meeting is limited to 15 or 20 minutes and meetings are open
+    If there were problems that can't be fixed in these short meeting and standup talkings
+    members schedule a meeting right after these meetups to fix them
