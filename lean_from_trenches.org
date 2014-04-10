@@ -22,3 +22,21 @@
 *** Each meeting is limited to 15 or 20 minutes and meetings are open
     If there were problems that can't be fixed in these short meeting and standup talkings
     members schedule a meeting right after these meetups to fix them
+
+* Chapter 4: Project Board
+** Kanban board
+   kanban board is board which has a distinct structure and flow.
+   It has idea column in left side and In production in right side.
+   Each idea or feature specified by cards.
+   cards moves from left side of the board to the right side of the board.
+   columns are (optional of course):
+   - Idea
+   - Features
+   - Next ten featuers
+   - Development
+   - System test
+   - User acceptance test
+   - Production
+
+* Need to google
+** TODO epic card
