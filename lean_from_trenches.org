@@ -37,6 +37,9 @@
    - System test
    - User acceptance test
    - Production
-
+*** Important and emergency issue handled by labels on issue card
+    By putting labels in different color on a card which need an
+    emergency care we provide more details about situation like
+    blocker or problem  description.
 * Need to google
 ** TODO epic card
