@@ -1,3 +1,7 @@
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage{xyz}
+
 * Chapter 1
 ** The key to minimizing risk in large projects is to find a way to "slice the ele-phant"
    that is, find a way to release the system in small increments instead
@@ -41,5 +45,21 @@
     By putting labels in different color on a card which need an
     emergency care we provide more details about situation like
     blocker or problem  description.
+
+* Chapter 5: Kanban Board
+  Each feature in development section of project board will be appear
+  in each development team private board. Feature breaks down to tasks
+  in team board and each developer work on several. task owners distinct by
+  their avatar
+* Chapter 6: High Level Goal
+** Team members may not have a view of high-level goal or may have a different view.
+** It's good to announce high-level goal and its milestone to team by a seperate board in addition to kanban board
+** After each release we have to create a new goal statement for next release
+** Each week or two, We have to have a reality check
+   by asking team members about "Do you believe we’ll reach this goal?", they can give points to this question
+*** After each voting we have to discuss about current situation
+    If every thing is fine, then how we keep up good work ?
+    If not, we have to find solutions like adjusting our goal, changing feature list or any thing else
+
 * Need to google
 ** TODO epic card
