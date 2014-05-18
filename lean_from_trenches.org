@@ -61,5 +61,35 @@
     If every thing is fine, then how we keep up good work ?
     If not, we have to find solutions like adjusting our goal, changing feature list or any thing else
 
+* Chapter 7: Defining ready and done
+** Missing a clear defination for each column in kanban board or defination for 'ready' and 'done' causeing confusion
+** Ready for develoment
+*** Each taks should have below conditions to call it "ready for development"
+**** It should have an ID
+**** It should have a contact person. Some one who have the highest level of knowledge about it.
+**** It must be *valuable* to customer
+**** It must be estimated
+     We have to select some levels for estimation. like (small, medium, large)
+     for example:
+     - Small: takes less that one week and do not need any thing special to do it
+     - Medium: Takes one to two week.
+     - Large: Takes more than two week to complete. Big features should break into smaller features
+              before allow for development
+**** It muse have an *acceptance test scenario*. (normally this scenario written in the back of feature paper)
+** Ready for test
+*** Testing is a bottleneck in each project.
+*** choosing True testing strategy is a critical point
+*** Features should be tested by developer before handing to test team to eliminate early bugs
+*** Ready for test requirement (each feature should have these):
+**** Pass the automated tests (e.g test written by a test suite)
+**** All automated tests for previous features should pass
+**** the team should demonstrate the feature to the rest of the team, on-site user, analyst etc
+**** clear the checkin comment ( when a feature defined, a simple scenario and comment added to it)
+**** Tested in the development environment:
+     Each team has a dedicated test
+     environment, and this feature should be tested there (to avoid the “Hey,
+     it works on my machine” syndrome)
+**** Feature should merge into dev branch and each conflict should fix
+
 * Need to google
 ** TODO epic card
